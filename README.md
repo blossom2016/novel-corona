@@ -13,3 +13,5 @@ The number of queries that could be run at once was limited to 50 because I am u
 I used Postman to test my connection to see if the backend was working well. 
 So I uploaded the CSV with a POST request, after which data was extracted from it to see if it can be used to serve the frontend. 
 
+#Frontend
+For the frontend, I used react js and ploty js to achieve the graphs that are seen in the project. 
